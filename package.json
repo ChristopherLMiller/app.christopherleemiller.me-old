@@ -79,7 +79,7 @@
     "@babel/plugin-proposal-optional-chaining": "^7.9.0",
     "@types/date-fns": "^2.6.0",
     "@types/highlight.js": "^9.12.4",
-    "@types/jest": "^26.0.5",
+    "@types/jest": "^26.0.24",
     "@types/md5": "^2.2.0",
     "@types/next": "^9.0.0",
     "@types/next-seo": "^1.10.0",
