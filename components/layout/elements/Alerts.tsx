@@ -11,7 +11,7 @@ interface iStyledAlert {
 const StyledAlert = styled.div<iStyledAlert>`
   padding: 20px;
   font-size: var(--p-responsive);
-  background: var(--color-alert- ${(props) => props.background});
+  background: var(--color-alert-${(props) => props.background});
 `;
 
 interface iAlerts {
