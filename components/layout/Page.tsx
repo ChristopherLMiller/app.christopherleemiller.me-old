@@ -11,7 +11,7 @@ const StyledPage = styled.div`
   transition: all 0.5s;
 
   :before {
-    content: '';
+    content: "";
     position: fixed;
     transform: scale(1.1);
     left: 0;
@@ -19,7 +19,7 @@ const StyledPage = styled.div`
     z-index: -1;
 
     display: block;
-    background-image: url('${imageURL("clm_me/assets/background")}');
+    background-image: url("${imageURL("clm_me/assets/background")}");
     background-size: cover;
     width: 100%;
     height: 100%;
@@ -29,7 +29,6 @@ const StyledPage = styled.div`
     display: grid;
     grid-template-columns: auto 1fr;
   }
-
 `;
 
 const Inner = styled.div`
